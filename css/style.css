@@ -43,6 +43,7 @@ img {
 }
 .btn:hover {
 	background-position: 0 0;
+	color: #f99400;
 }
 /*------------------------------ HEADER ------------------------------*/
 #header {
@@ -87,12 +88,13 @@ img {
 }
 #navigation li {
 	float: left;
-	width: 160px;
+	width: 120px;
 	text-align: center;
+	position: relative;
 }
 #navigation li a {
 	color: #818181;
-	font-size: 15px;
+	font-size: 13px;
 	line-height: 30px;
 	text-decoration: none;
 }
@@ -101,6 +103,23 @@ img {
 }
 #navigation li.active a {
 	color: #f99600;
+}
+/** Submenu **/
+#navigation li > .submenu {
+	background-color: #fff;
+	color: #efe89b;
+	display: none;
+	width: 160px;
+	position: absolute;
+	left: 0px;
+	top: 70px;
+}
+#navigation li:hover > .submenu {
+	display: block;
+}
+#navigation li > .submenu a {
+	display: block;
+	text-align: center;
 }
 #adbox {
 	background: url(../images/bg-adbox.jpg) repeat-x left top;
@@ -386,7 +405,7 @@ p a {
 #connect a.twitter {
 	background-position: 0 -80px;
 }
-#connect a.tumbler {
+#connect a.pinterest {
 	background-position: 0 -120px;
 }
 #connect a.facebook:hover {
@@ -398,6 +417,6 @@ p a {
 #connect a.twitter:hover {
 	background-position: -40px -80px;
 }
-#connect a.tumbler:hover {
+#connect a.pinterest:hover {
 	background-position: -40px -120px;
 }
