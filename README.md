@@ -1,4 +1,4 @@
-TheCacophonyTrust.gethub.io
+TheCacophonyProject.gethub.io
 ===========================
 
-The Cacophony Trust Website
+The Cacophony Project Website
