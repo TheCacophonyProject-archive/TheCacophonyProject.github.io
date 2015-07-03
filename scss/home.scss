@@ -1,4 +1,73 @@
 #home {
 
+#hero {
+	background-image:url('/img/hero-large.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+
+	h1 {
+		color: #fff;
+		text-transform:uppercase;
+		font-weight: 600;
+		line-height: 1.375;
+		letter-spacing: 6px;
+		margin:2rem 0 2rem;
+	}
+
+	#hero-text {
+		background-color:rgba(0,0,0,0.5);
+		margin-bottom:10rem;
+	}
+
+	#player {
+		background-color:rgba(0,0,0,0.8);
+
+		h2 {
+			margin:0;
+			color: #FFF;
+			font-weight:700;
+			padding:0.6rem 0 0.6rem;
+		}
+
+		audio {
+			width:80%;
+		}
+	}
+}
+
+
+
+
+@media #{$small-only} { 
+
+
+
+}
+
+@media #{$medium-up} { 
+
+#hero {
+	background-image:url('/img/hero-large.jpg');
+}
+
+
+}
+
+@media #{$large-up} {
+	
+
+}
+
+@media #{$xlarge-up} {
+
+}
+
+@media #{$xxlarge-up} {
+
+
+}
+
+
 
 }

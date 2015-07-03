@@ -44,7 +44,7 @@
     background:#FFF;
   }
 
-  nav a {
+  nav a:not(#home-link) {
     display: block;
     padding: 0 15px;
     color: #000;

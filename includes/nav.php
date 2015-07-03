@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<nav>
-			  <div id="logo"><img src="/img/logo.png"></div>
+			  <div id="logo"><a id="home-link" alt="Home" title="Home" href="/"><img src="/img/logo.png"></a></div>
 			  <label for="drop" class="toggle">Menu</label>
 			  <input type="checkbox" id="drop" />
 			  <ul class="menu">
@@ -10,31 +10,31 @@
 			    <li> 
 			      <!-- First Tier Drop Down -->
 			      <label for="drop-1" class="toggle">The Project +</label>
-			      <a href="#">The Project</a>
+			      <a id="the-project-link" href="/project-cacophony.php">The Project</a>
 			      <input type="checkbox" id="drop-1"/>
 			      <ul>
-			        <li><a href="#">Cacohonometer</a></li>
-			        <li><a href="#">Data Upload</a></li>
-			        <li><a href="#">Analysis</a></li>
-			        <li><a href="#">Applications</a></li>
-			        <li><a href="#">First Project</a></li>
-			        <li><a href="#">Open Source Details</a></li>
+			        <li><a href="/project-cacophony.php#cacophonometer">Cacohonometer</a></li>
+			        <li><a href="/project-cacophony.php#data-upload">Data Upload</a></li>
+			        <li><a href="/project-cacophony.php#analysis">Analysis</a></li>
+			        <li><a href="/project-cacophony.php#applications">Applications</a></li>
+			        <li><a href="/project-cacophony.php#first-product">First Project</a></li>
+			        <li><a href="/project-cacophony.php#open-source">Open Source Details</a></li>
 			      </ul>
 			    </li>
-			    <li><a href="#">How to Help</a></li>
-			    <li><a href="#">News</a></li>
-			    <li><a href="#">Shop</a></li>
-			    <li> 
+			    <li><a id="how-to-help-link" href="/how-to-help.php">How to Help</a></li>
+			    <li><a id="news-link" href="/news.php">News</a></li>
+			    <li><a id="shop-link" href="/shop.php">Shop</a></li>
+			    <li><a id="theory-link" href="/theory.php">Theory</a></li>
+			    <!--<li> 
 			      
-			      <!-- First Tier Drop Down -->
 			      <label for="drop-2" class="toggle">Theory +</label>
-			      <a href="#">Theory</a>
+			      <a href="/theory.php">Theory</a>
 			      <input type="checkbox" id="drop-2"/>
 			      <ul>
 			        <li><a href="#">Content 1</a></li>
 			        <li><a href="#">Content 2</a></li>
 			        
-			        <!--<li> 
+			        <li> 
 			          
 				        Second Tier Drop Down 
 				          <label for="drop-3" class="toggle">Works +</label>
@@ -46,11 +46,11 @@
 				            <li><a href="#">Python</a></li>
 				          </ul>
 				        </li>
-			    	-->
+			    	
 			      </ul>
-			    </li>
+			    </li>-->
 			    
-			    <li><a href="#">About Us</a></li>
+			    <li><a id="about-link" href="/about-us.php">About Us</a></li>
 			  </ul>
 			</nav>
 		</div>
