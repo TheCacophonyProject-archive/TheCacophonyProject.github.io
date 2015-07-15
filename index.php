@@ -20,7 +20,7 @@
 <?php include('includes/nav.php'); ?>
 	
 	<!-- hero -->
-<section id="hero">
+<section class="hero">
 	<div id="hero-text">
 		<div class="row">
 		<div class="small-12 columns">
@@ -28,7 +28,6 @@
 				</div>
 		</div>
 	</div>
-
 	<div class="row">
 		<div class="small-12 medium-6 text-center columns">
 			

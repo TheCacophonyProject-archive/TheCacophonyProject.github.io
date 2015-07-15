@@ -62,11 +62,19 @@ a.hero-jump.button {
 	background-color: #2F2F2F !important;
 }
 
+.gray {
+	background-color: #e5e5e5 !important;
+}
+
+.green {
+	background-color: $green !important;
+}
+
 body>section p a {
 	font-weight: bold;
 }
 
-body>section:not(#menu):not(#hero) {
+body>section:not(#menu):not(.hero):not(#footer-container) {
 	padding: 30px 0 40px;
 }
 
@@ -88,7 +96,7 @@ a.hero-jump.button {
 	display:inline;
 	position:fixed;
 	right:40px;
-	top:700px;
+	bottom:80px;
 	z-index:9999;
 
 	#join-inner {
@@ -105,6 +113,12 @@ a.hero-jump.button {
 	  a {
 	  	text-decoration:none;
 	  }
+	}
+}
+
+#open-source {
+	img {
+		margin:3rem 0 0 4rem;
 	}
 }
 

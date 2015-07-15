@@ -20,10 +20,12 @@
 <?php include('includes/nav.php'); ?>
 	
 	<!-- hero -->
-<section id="hero">
-	<div class="row">
-		<div class="small-12 columns">
-			<h1>Contribute to the Cacophony</h1>
+<section class="help-header hero" id="subpage-hero">
+	<div id="hero-text">
+		<div class="row">
+			<div class="small-12 columns">
+				<h1>Unleashing Moore’s Law on the pests</h1>
+			</div>
 		</div>
 	</div>
 </section>
