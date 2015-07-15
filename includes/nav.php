@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<nav>
-			  <div id="logo"><a id="home-link" alt="Home" title="Home" href="/"><img src="/img/logo.png"></a></div>
+			  <div id="logo"><a id="home-link" alt="Fly home" title="Fly home" href="/"><img src="/img/logo.png"></a></div>
 			  <label for="drop" class="toggle">Menu</label>
 			  <input type="checkbox" id="drop" />
 			  <ul class="menu">
@@ -23,7 +23,7 @@
 			    </li>
 			    <li><a id="how-to-help-link" href="/how-to-help.php">How to Help</a></li>
 			    <li><a id="news-link" href="/news.php">News</a></li>
-			    <li><a id="shop-link" href="/shop.php">Shop</a></li>
+			    <!--<li><a id="shop-link" href="/shop.php">Shop</a></li>-->
 			    <li><a id="theory-link" href="/theory.php">Theory</a></li>
 			    <!--<li> 
 			      
