@@ -14,11 +14,20 @@
 	p {
 		font-weight:300;
 		font-size: 0.9rem !important;
-		margin-bottom: 1.5rem;
+		margin-top:1rem;
 	}
 
 	a {
 		color:#a1d2cd;
+	}
+
+	.hashtag {
+		a {
+			color:#BBB;
+			font-weight:bold;
+			text-decoration:none;
+		}
+		margin-top:0;
 	}
 }
 
@@ -33,7 +42,7 @@
 
 	#footer-container {
 		
-		padding: 45px 0 30px 0;
+		padding: 35px 0 20px 0;
 		
 
 	}
