@@ -1,0 +1,30 @@
+/* Contact Us Styles */
+#contact-form {
+	
+	#success, #failure {
+		display: none;
+	}
+
+	 textarea{
+		background: #e2e5e5;
+		border: none;
+		box-shadow: none;
+		max-width: 100%;
+		height:260px;
+	}
+
+	#button-submit {
+		color:#FFF;
+		background:$green;
+	}
+
+
+	@media #{$medium-up} {
+
+	}
+
+	@media #{$large-up} {
+
+
+	}
+}

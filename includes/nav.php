@@ -9,22 +9,20 @@
 			    <!--<li><a href="#">Home</a></li>-->
 			    <li> 
 			      <!-- First Tier Drop Down -->
-			      <label for="drop-1" class="toggle">The Project +</label>
-			      <a id="the-project-link" href="/project-cacophony.php">The Project</a>
-			      <input type="checkbox" id="drop-1"/>
+			      <!-- <label for="drop-1" class="toggle">Join the open source project ></label>-->
+			      <a id="the-project-link" href="/project-cacophony.php">Join the open source project</a>
+			      <!-- <input type="checkbox" id="drop-1"/>
 			      <ul>
-			        <li><a href="/project-cacophony.php#cacophonometer">Cacohonometer</a></li>
-			        <li><a href="/project-cacophony.php#data-upload">Data Upload</a></li>
-			        <li><a href="/project-cacophony.php#analysis">Analysis</a></li>
-			        <li><a href="/project-cacophony.php#applications">Applications</a></li>
-			        <li><a href="/project-cacophony.php#first-product">First Project</a></li>
-			        <li><a href="/project-cacophony.php#open-source">Open Source Details</a></li>
-			      </ul>
+			        <li><a href="/project-cacophony.php#cacophonometer">Sound recording hardware</a></li>
+			        <li><a href="/project-cacophony.php#data-upload">Uploading and storing data</a></li>
+			        <li><a href="/project-cacophony.php#analysis">Data analysis</a></li>
+			        <li><a href="/project-cacophony.php#applications">Apps and software</a></li>
+			      </ul>-->
 			    </li>
-			    <li><a id="how-to-help-link" href="/how-to-help.php">How to Help</a></li>
-			    <li><a id="news-link" href="/news.php">News</a></li>
+			    <li><a id="cacophonometer-link" href="/cacophonometer.php">Cacophonometer</a></li>
+			    <!-- <li><a id="news-link" href="/news.php">Shop</a></li> -->
 			    <!--<li><a id="shop-link" href="/shop.php">Shop</a></li>-->
-			    <li><a id="theory-link" href="/theory.php">Theory</a></li>
+			    <li><a id="team-link" href="/team.php">The project team</a></li>
 			    <!--<li> 
 			      
 			      <label for="drop-2" class="toggle">Theory +</label>
@@ -50,7 +48,7 @@
 			      </ul>
 			    </li>-->
 			    
-			    <li><a id="about-link" href="/about-us.php">About Us</a></li>
+			    <li><a id="friends-link" href="/cacophony-friends.php">Friends of the project</a></li>
 			  </ul>
 			</nav>
 		</div>
