@@ -7,18 +7,20 @@
 	<meta http-equiv="Content-Type" content="svg/xml" />
 	<title>Join the Cacophony Project - open source data analysis</title>
 	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:300, 400,600,700' type='text/css'>	
+	<title>The Cacophony Project</title>
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:300, 400,600,700' type='text/css'>
 	<link rel="stylesheet" href="/css/app.css" />
 	<link rel="icon" type="image/png" href="/favicon.png">
 <meta name="keywords" content="Cacophony Project New Zealand Birds" />
 <meta name="description" content="The open source Cacophony Project captures, stores and analyses data from New Zealand birds. Hardware, software, apps, big data: Join and help." />
 	<script type="text/javascript" src="bower_components/modernizr/modernizr.js"></script>
-	<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>    
-	<script type="text/javascript" src="js/d3.min.js"></script>	<!-- move to bower_components -->      
+	<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script type="text/javascript" src="js/d3.min.js"></script>	<!-- move to bower_components -->
 </head>
 <body id="project-cacophony">
 
 <?php include('includes/nav.php'); ?>
-	
+
 	<!-- hero -->
 <section class="project-header hero" id="subpage-hero">
 	<div id="hero-text">
@@ -56,6 +58,11 @@
 				<p>We’re testing the assumption that sound can be a pretty good, high-level indicator of what is going on in an area of bush. At its most basic: Better conservation = more birds = more sound.</p>
 				<p>The steps are to record sound in the wild, combine it with other data (e.g. GPS coordinates and time), upload it to the cloud (we’re already using Amazon Web Services), process and analyse everything, and produce useful insight into the health of our native bush over time.</p>
 				<p>Every step comes with questions that you can help answer.</p>
+				<h2>Data collection hardware – Cacophonometer</h2>
+				<p>The aim of this project is to have a cheap reliable way of collecting and uploading data to the cloud. Our initial assumption is that sound is a pretty good high level indicator of what is going on in local area.</p>
+
+				<p>A cheap smart phone is the ideal first Cacophonometer and it has all the required electronics. We put the cacophonometer in a water proof container with a plug in microphone and solar charger. This give us an inexpensive way to capture the state of the environement in lots of places. …Detailed specification of initial data logger is here</p>
+				<p>We are keen on any contributions that will help create a cheaper more reliable device. Buy one to play with here.</p>
 		</div>
 	</div>
 </section>
@@ -79,6 +86,13 @@
 		<div class="small-12 medium-6 columns">
 			<h4>Now</h4>
 			<p>You’ll be able to buy Cacophonometers soon. Leave us your email address and we’ll let you know when.</p>
+
+				<ul>
+					<li>Core processor – eg Arduino or cheap smart phone</li>
+					<li>Data input devices – sound recorder, GPS, temp</li>
+					<li>Data transfer devices (one of…wifi, cell data, Bluetooth, SD card)</li>
+					<li>Power supply – solar collector</li>
+				</ul>
 		</div>
 		<div class="small-12 medium-6 columns">
 			<h4>Later</h4>
@@ -142,6 +156,16 @@
 				</ul>
 			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="#">email us</a>.</p>
 
+
+					<li>Cacophony index - The first objective is to have a simple index of the health of the ecosystem based on sound analysis. While this will never be perfect it is at least objective and can be retrospectively analysed as techniques improve. Eg every 5 second interval tested for if there is a bird noise or not – then gives score from 0-100 on quantity of bird noise in any given period.</li>
+					<li>Graph to show the trend in cacophony index at each data collection point</li>
+					<li>Analysis of pest noises – can you detect possums or rats based on sound?</li>
+					<li>Analysis of control methods – can you detect a trap going off?</li>
+					<li>Analysis of types of birds – can you identify types of birds?</li>
+					<li>Maps – so anyone can see visually where the high cacophony and dead zones are</li>
+					<li>Experiment design – can we suggest best ways to design experiments for pest eradication/control. Eg monitors in place for 1 month before traps set and two areas the same one with and one without trapping to compare….</li>
+					<li>Data collection analysis – from all of the above can you estimate optimal spacing and data collection methods…</li>
+				</ul>
 		</div>
 	</div>
 </section>
@@ -167,6 +191,13 @@
 				<li>Record trapping data (like GPS location, time and state of trap – reset, maintained, re-baited etc.) and see the changes they’re contributing to.</li>
 				<li>Suggest ways to help in the area - like mapping traps to monitor, for example.</li>
 				<li>Connect people who are working to improve the cacophony, by showing who is helping in a given area, with social media or other contact details.</li>
+  				<li>Ap that allowed anyone to hold phone up, press record for set time (eg 1-5 minutes), enter email and then get sent a cacophony measurement for their area</li>
+				<li>Assess other data in your area to see how well you are doing</li>
+				<li>Enter simple trap update data – GPS, time and state of trap – reset, maintained, re-baited etc</li>
+				<li>Ap in walking mode to collect data while on a tramp – uploaded when return. Most people have a powerful  mobile computer so we should use to help the birds</li>
+				<li>Have a map of traps in your area that need working on in your region</li>
+				<li>Suggested things you can do to improve the cacophony in your area</li>
+				<li>Have graph to show trends in cacophony in area and who has contributed to it – eg john smith – easy link to update to Facebook etc</li>
 			</ul>
 		</div>
 	</div>
@@ -178,6 +209,7 @@
 </section>
 
 <section id="open-source" class="gray">
+
 	<div class="row up-button">
 		<div class="small-12 columns">
 			<a href="#project-nav" class="smooth-scroll hero-jump button round black"></a>
@@ -185,21 +217,30 @@
 	</div>
 	<div class="row">
 		<div class="small-12 columns">
-			<h2>Open source details</h2>
+			<h2>Open Source - Participation and Reuse</h2>
 		</div>
 	</div>
 	<div class="row">
 		<div class="small-12 medium-6 columns">
-			
-			<h4>License types</h4>
-			<p>License type - ? MIT BSD3? - We have chosen the open source licence…….as we are very happy for commercial companies to use what is created here to help accelerate the process of achieving cacophony…. Main thing we want is that all the data collected contributes to open source data base that anyone can analyse and use….			</p>
-			<h4>Open source tools</h4>
-			<p>Source code control hosting , version control, discussion and web – GitHub</p>
-			<h4>Technology stack</h4>
+			<p>Our main goals with this project are to:</p>
+			<ol>
+				<li>create a community of interested technologists, biologists, and other researchers around the hardware, software and scientific problems we need to address to make the project a success, and</li>
+				<li>encourage commercial interests to provide services which dovetail with or benefit from the work we are doing.</li>
+			</ol>
+			<p>We are working to ensure that our licensing first and foremost protects the interests of our community and collaborators. Our next priority is to be an attractive partner to commercial interests.</p>
+			<h3>License types</h3>
+			<p>The software components of the Cacophony Project are made available as "Free Software", which is also open source, under <a href="http://www.gnu.org/copyleft/copyleft.en.html">copyleft</a> licenses like the <a href="http://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License, v3 or later</a> (GPL) or the <a href="http://www.gnu.org/licenses/agpl-3.0.en.html">Affero General Public , v3 or later</a> (AGPL). We do this to protect the interests of both users and developers, who are often the very same people.</p>
+			<p>To the extent to which we are able, we will entertain requests to make individual software components available to commercial partners under different licenses which allow commerical exploitation, however we will do this only if a sufficiently strong, mutually beneficial case for doing so can be made, as these sorts of arrangements can strain the relationships of open source communities.</p>
+			<h3>Toolset</h3>
+			<p>This project is built around a small set of open source collaboration tools: OnlineGroups.Net for email list communication, Git for source code control, and Taiga for Kanban-style project coordination. All of these tools are both open source and gratis (free of cost) to use.</p>
+			<p>If you want to find out more about the project - regardless of whether you're a software developer, scientist, or just an interested member of the the public, we invite you to <a href="http://groups.nzoss.org.nz/groups/projectcacophony">join our OnlineGroups.Net mailing list</a> (provided by the <a href="https://nzoss.org.nz">NZ Open Source Society</a>) and get involved in the discussion, or just browse/search the past discussion in the archives! It's the easiest way to participate, and participation is what we're after!</p>
+			<p>The main project, with its software sub-components is the <a href="https://github.com/TheCacophonyProject">Cacophony Project on GitHub</a>. You are welcome to peruse the existing code base, and we encourage you to test our code - feel free to fork away! We love pull requests.</p>
+			<p>We manage the day to day work on the project via our <a href="https://tree.taiga.io/project/the-cacophony-project/">Cacophony Project</a> on <a href="http://taiga.io">Taiga.io</a> (Taiga is similar to Trello, but is free to use, and fully open source, i.e. you can create your own self-hosted instances of Taiga) - you currently need a <a href="https://tree.taiga.io/register">user account</a> (available at no cost) on Taiga to join the project.</p>
+			<h3>Technology stack</h3>
 			<p>
-				List of technologies....	
+				List of technologies....
 			</p>
-			<h4>Links to project </h4>
+			<h3>Links to project </h3>
 			<p>
 				List of links to varous parts of project...
 			</p>
