@@ -5,12 +5,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta http-equiv="Content-Type" content="svg/xml" />
-	<title>The Cacophony Project</title>
+	<title>Cacophony Project - Moore’s Law for NZ birds</title>
 	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:300, 400,600,700' type='text/css'>	
 	<link rel="stylesheet" href="/css/app.css" />
 	<link rel="icon" type="image/png" href="favicon.png">
-<meta name="keywords" content="The Cacophony Project" />
-<meta name="description" content="The Cacophony Project" />
+<meta name="keywords" content="Cacophony Project New Zealand Birds" />
+<meta name="description" content="The Cacophony Project turns birdsong into data, so we can measure how to best protect New Zealand’s birds. Join the open source project." />
 	<script type="text/javascript" src="bower_components/modernizr/modernizr.js"></script>
 	<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>    
 	<script type="text/javascript" src="js/d3.min.js"></script>	<!-- move to bower_components -->      
@@ -24,7 +24,7 @@
 	<div id="hero-text">
 		<div class="row">
 		<div class="small-12 columns">
-				<h1>Unleashing Moore’s Law on the pests</h1>
+				<h1>Moore’s Law for New Zealand’s birds</h1>
 				</div>
 		</div>
 	</div>
@@ -49,11 +49,16 @@
 		</div>
 		<div class="small-12 medium-6 columns">
 			<div id="opening-copy">
-				<h2>The Cacophony Project</h2>
-				<h4>Making the most of technology trends - unleashing Moores Law on the pests.</h4>
-				<p>The riotous cacophony of birdsong was one of the things Captain Cook and Joseph Banks found truly extraordinary when they first arrived in New Zealand.</p>
-				<p>This Cacophony has been recreated on island and fenced sanctuaries around New Zealand and the aim of The Cacophony Project is to help accelerate that recovery on the mainland. </p>
-				<p>The book "Paradise Saved" is a remarkable story that shows the effort that has gone into turning the corner on NZ's unique environment. Our aim is to try to stimulate conservation productivity so that this effort can make even bigger impact over time. </p>
+				<h2>Join the Cacophony Project</h2>
+				<p>Moore’s Law tells us that it keeps getting cheaper and easier to crunch data. And every day, all around New Zealand, the dawn chorus tells us that our birdlife is one of our greatest treasures. But which way is the volume trending? And what can we pick out from the individual voices?</p>
+				<p>
+					The Cacophony Project will turn birdsong into data. By capturing the sound of our ecosystems, we’re going to build up a dataset that tracks exactly what the birds are telling us, over time and over the whole of New Zealand. 
+				</p>	
+				<p>
+					We’ve already built the technology. The Cacophonometer is a simple piece of hardware that lives in the bush, listening out for birds and automatically sending what it hears to the cloud. Every recording is tagged by GPS location and by time.				
+				</p>
+				<p>
+					Now we spread Cacophonometers far and wide. And we listen, learn, and improve the Cacophony Project as we go.				</p>	
 			</div>
 		</div>
 	</div>
@@ -62,16 +67,18 @@
 <section id="first-project">
 	<div class="row">
 		<div class="small-12 columns">
-			<h2>Our First Project</h2>
+			<h2>How you can help</h2>
 		</div>
 	</div>
 	<div class="row">
 		<div class="small-12 medium-6 columns">
-			<div id="opening-copy">
-				<p>Open source sound capture tool to measure health of the environment. Bird volume is a reasonably good proxy for health of the environment and in the long term this could be a very cheap way to monitor the progress of pest eradication projects.</p>
-				<p>State of the art measurement of birds quantities and types is very expensive and hard to make accurate given that it is a very labour intensive project - see here.</p>
-				<p>Our assumption is that eventually computer analysis of sounds will give an objective measure of state of the environment and how it is changing over time. </p>
-				<p>What ever we record now will be useful for tracking how things change over time. Realitive simple analysis will be useful to know what pest eradication methods are making the most differenc. Over time with the improvement in analysis they may be able to do very sophisticated analysis of bird species and possibly individual birds and pest. <a href="#">More details on project here</a>.</p>
+			<div id="opening-copy"><br>
+				<p><strong>Release a Cacophonometer into the wild:</strong><br>
+				 The more sound we save, the better. <a href="/cacophonometer.php">You can help us sprinkle Cacophonometers all over the country.</a></p>
+				<p><strong>Tinker with the hardware or data:</strong><br>
+				 Looking for a technical challenge? This is an open source project. We’re looking for ways to get Moore’s Law on our side - improving the Cacophonometer, getting the collection and storage of data right, and finding the best ways to analyse the sound and see what’s happening in the wilderness. <a href="/project-cacophony.php">Read more about Cacophony hardware, software, and data analysis</a>.
+				</p>
+			
 			</div>
 		</div>
 		<div class="small-12 medium-6 columns">
@@ -87,28 +94,29 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="small-12 medium-6 columns">
-			<h2>We are Listening Here</h2>
-			<p>Where abouts are we?</p>
-			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur.</p>
-			<p>Aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Ut enim ad minima veniam, quis nostrum exercitationem.</p>
-			<h3>Buy a Cacophonometer</h3>
-			<h4><a href="#">Buy a Cacophonometer</a> so we can start collecting data in your area - the more data we have the better. </h4>
+		<div class="small-12 medium-7 columns">
+			<h2>The birds have always talked to us. This is a new way to listen</h2>
+			<p>As soon as people arrived in New Zealand, they recognised the importance of our birds. Māori beliefs about birdsong were passed down for centuries. The placement of a kāreke cry foretold your future. Kōmiromiro brought good news; piopio bad. The song of the riroriro signalled when to plant crops, and the tōrea’s cry told you when to dig for shellfish. The matuku mourned the dead. </p>
+			<p>When James Cook first sailed the Endeavour to New Zealand, his botanist, Joseph Banks, kept a journal. Anchored in Charlotte Sound:</p>
+			<blockquote>"This morn I was awakd by the singing of the birds ashore... The numbers of them were certainly very great who seemd to strain their throats. Their voices were certainly the most melodious wild musick I have ever heard...the most tuneable silver sound imaginable."</blockquote>
+			<p>But people don’t just listen to birds. We hunted them, and introduced pests like rats, stoats, possums and cats. The birds that we loved hearing made easy prey.</p>
+			<p>In recent decades, conservation has made a huge difference. Trapping, poison, hunting, and fences have all been turned against the pests. Bird sanctuaries all over New Zealand are attempting to bring the music back. (The book ‘Paradise Saved’ tells this remarkable story.)</p>
+			<p>We’re trying a lot of different thing to help our birds out. To restore the “wild musick” that once woke up Joseph Banks, we need to know which efforts work best. The Cacophony Project will let the birds tell us.</p>
 		</div>
-		<div class="small-12 medium-6 columns">
+		<div class="small-12 medium-5 columns">
 			<img src="/img/nzmap.png">
 		</div>
 	</div>
 </section>
 
-<section id="call-out">
+<!-- <section id="call-out">
 	<div class="row">
 		<div class="small-12 columns">
 			<h2>There are a number of ways you can help. Find out more <a href="#">here</a></h2>
 			<h4>If you think you can help then <a href="#">sing out</a></h4>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <?php include('includes/footer.php'); ?>
 
