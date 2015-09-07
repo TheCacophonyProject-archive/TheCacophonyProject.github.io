@@ -156,16 +156,6 @@
 				</ul>
 			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="#">email us</a>.</p>
 
-
-					<li>Cacophony index - The first objective is to have a simple index of the health of the ecosystem based on sound analysis. While this will never be perfect it is at least objective and can be retrospectively analysed as techniques improve. Eg every 5 second interval tested for if there is a bird noise or not – then gives score from 0-100 on quantity of bird noise in any given period.</li>
-					<li>Graph to show the trend in cacophony index at each data collection point</li>
-					<li>Analysis of pest noises – can you detect possums or rats based on sound?</li>
-					<li>Analysis of control methods – can you detect a trap going off?</li>
-					<li>Analysis of types of birds – can you identify types of birds?</li>
-					<li>Maps – so anyone can see visually where the high cacophony and dead zones are</li>
-					<li>Experiment design – can we suggest best ways to design experiments for pest eradication/control. Eg monitors in place for 1 month before traps set and two areas the same one with and one without trapping to compare….</li>
-					<li>Data collection analysis – from all of the above can you estimate optimal spacing and data collection methods…</li>
-				</ul>
 		</div>
 	</div>
 </section>
