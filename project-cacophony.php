@@ -227,15 +227,10 @@ Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil 
 			<p>For server components, including our sound file aggregation and distribution service, we are planning to use (subject to compelling arguments for other technologies):</p>
 			<ul>
 				<li>Linux Server (virtual instances) - Ubuntu 14.04 LTS</li>
-				<li>Node.JS</li>
+				<li>Node.JS (and various related javascript plugins for creating RESTful web services)</li>
 				<li>PostgreSQL</li>
 				<li>Amazon S3 for sound data storage</li>
 			</ul>
-
-			<h3>Links to project </h3>
-			<p>
-				List of links to varous parts of project...
-			</p>
 		</div>
 		<div class="small-12 medium-6 columns">
 			<img src="/img/open-source-icon.png">
