@@ -209,15 +209,29 @@ Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil 
 			<h3>License types</h3>
 			<p>The software components of the Cacophony Project are made available as "Free Software", which is also open source, under <a href="http://www.gnu.org/copyleft/copyleft.en.html">copyleft</a> licenses like the <a href="http://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License, v3 or later</a> (GPL) or the <a href="http://www.gnu.org/licenses/agpl-3.0.en.html">Affero General Public , v3 or later</a> (AGPL). We do this to protect the interests of both users and developers, who are often the very same people.</p>
 			<p>To the extent to which we are able, we will entertain requests to make individual software components available to commercial partners under different licenses which allow commerical exploitation, however we will do this only if a sufficiently strong, mutually beneficial case for doing so can be made, as these sorts of arrangements can strain the relationships of open source communities.</p>
+
 			<h3>Toolset</h3>
 			<p>This project is built around a small set of open source collaboration tools: OnlineGroups.Net for email list communication, Git for source code control, and Taiga for Kanban-style project coordination. All of these tools are both open source and gratis (free of cost) to use.</p>
 			<p>If you want to find out more about the project - regardless of whether you're a software developer, scientist, or just an interested member of the the public, we invite you to <a href="http://groups.nzoss.org.nz/groups/projectcacophony">join our OnlineGroups.Net mailing list</a> (provided by the <a href="https://nzoss.org.nz">NZ Open Source Society</a>) and get involved in the discussion, or just browse/search the past discussion in the archives! It's the easiest way to participate, and participation is what we're after!</p>
 			<p>The main project, with its software sub-components is the <a href="https://github.com/TheCacophonyProject">Cacophony Project on GitHub</a>. You are welcome to peruse the existing code base, and we encourage you to test our code - feel free to fork away! We love pull requests.</p>
 			<p>We manage the day to day work on the project via our <a href="https://tree.taiga.io/project/the-cacophony-project/">Cacophony Project</a> on <a href="http://taiga.io">Taiga.io</a> (Taiga is similar to Trello, but is free to use, and fully open source, i.e. you can create your own self-hosted instances of Taiga) - you currently need a <a href="https://tree.taiga.io/register">user account</a> (available at no cost) on Taiga to join the project.</p>
+
 			<h3>Technology stack</h3>
-			<p>
-				List of technologies....
-			</p>
+			<p>We have selected technologies for a number of the planned components of the Cacophony Project, and number are still in the planning stages. Technology choices will be made based on what our committed contributors believe offers the best likelihood of success and future viability. We will, of course, only use free and open source technologies to ensure that all interested contributors are able to participate without any artificial barriers.</p>
+			<p>For our Cacophonometers, we are using the following technology stack:</p>
+			<ul>
+				<li>Android (4.0 or better) OS</li>
+				<li>Android SDK and developer tools</li>
+				<li>Commodity hardware</li>
+			</ul>
+			<p>For server components, including our sound file aggregation and distribution service, we are planning to use (subject to compelling arguments for other technologies):</p>
+			<ul>
+				<li>Linux Server (virtual instances) - Ubuntu 14.04 LTS</li>
+				<li>Node.JS</li>
+				<li>PostgreSQL</li>
+				<li>Amazon S3 for sound data storage</li>
+			</ul>
+
 			<h3>Links to project </h3>
 			<p>
 				List of links to varous parts of project...
