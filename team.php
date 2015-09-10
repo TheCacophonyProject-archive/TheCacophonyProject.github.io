@@ -15,48 +15,48 @@
 	<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>    
 	<script type="text/javascript" src="js/d3.min.js"></script>	<!-- move to bower_components -->      
 </head>
-<body id="how-to-help">
+<body id="project-team">
 
 <?php include('includes/nav.php'); ?>
 	
 	<!-- hero -->
-<section class="help-header hero" id="subpage-hero">
+<section class="team-header hero" id="subpage-hero">
 	<div id="hero-text">
 		<div class="row">
 			<div class="small-12 columns">
-				<h1>Unleashing Moore’s Law on the pests</h1>
+				<h1>The Cacophony Project team</h1>
 			</div>
 		</div>
 	</div>
 </section>
 
-<section id="contribute">
+<section id="awesome-people">
 	<div class="row">
 		<div class="small-12 columns">
-			<ul>
-				<li>Buy a Cacophonometer so we can start  collecting data in your area - the more data we have the better</li>
-				<li>Contribute to the open source hardware of software projects to improve conservation productivity</li>
-				<li>Analysis – are you clever enough to work out what is going on here……</li>
-				<li>Get other people involved....tell them about project Cacophony</li>
-				<li>Buy weapons of pest destruction (do some trapping in your area)</li>
-				<li>Donate a Cacophonometer to one of the many excellent conservation projects around the country</li>
-			</ul>
+			<p>Cameron Ryan-Pears - Main engineer for project</p>
+			<p>Dave Lane - Open source design</p>
+			<p>Gray Rathgen - Designer</p>
+			<p>Kate Haley - Supporter</p>
+			<p>Grant Ryan - Project initiator/coordinator</p>
+			<p>Roger Brough - Technical advice</p>
+			<p>Laura Molles - Scientific advice</p>
+			<p>Michael Busby - Website</p>
+			<p>Alex James and Michael Plank (University of Canterbury) - Modelling and statistics</p>
 		</div>
 	</div>
 </section>
 
-<section id="call-out">
+<!--<section id="call-out">
 	<div class="row">
 		<div class="small-12 columns">
 			<h2>There are a number of ways you can help. Find out more <a href="#">here</a></h2>
 			<h4>If you think you can help then <a href="#">sing out</a></h4>
 		</div>
 	</div>
-</section>
-
+</section> -->
 
 <script>
-$('#how-to-help-link').css("font-weight","bold");
+$('#team-link').css("font-weight","bold");
 </script>
 
 <?php include('includes/footer.php'); ?>

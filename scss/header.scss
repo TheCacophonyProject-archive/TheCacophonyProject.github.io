@@ -9,7 +9,7 @@
   }
 
   .menu {
-    top:130px;
+    top:68px;
   }
 
   #logo {
@@ -17,6 +17,10 @@
     float: left;
     font-size: 20px;
     line-height: 60px;
+
+    img {
+      width:300px;
+    }
   }
 
    .toggle, [id^=drop] {
@@ -46,9 +50,9 @@
 
   nav a:not(#home-link) {
     display: block;
-    padding: 0 15px;
+    padding: 0 13px;
     color: #000;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 50px;
     text-decoration: none;
   }
