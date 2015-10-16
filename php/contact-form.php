@@ -18,7 +18,7 @@ $body .= "Message: ".$message."\n\n";
 if ($name != "") {
 	if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
 		if ($spam == "") {
-			if(mail($toemail, "Contact from Cacophony website", $body, 'From: busbymp@gmail.com','-f busbymp@gmail.com')) {
+			if(mail($toemail, "Contact from Cacophony website", $body, 'From: info@cacophony.org.nz','-f info@cacophony.org.nz')) {
 					$return_arr["id"] = "success";
 					$return_arr["message"] = "success";
 			} else {
