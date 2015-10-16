@@ -57,7 +57,7 @@
 
 <div id="join">
 	<div id="join-inner">
-		<a href="#"><h4>Join the project</h4></a>
+		<a href="/cacophonometer.php"><h4>Join the project</h4></a>
 	</div>
 
 </div>
