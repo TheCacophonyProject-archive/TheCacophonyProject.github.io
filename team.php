@@ -41,6 +41,7 @@
 			<p>Roger Brough - Technical advice</p>
 			<p>Laura Molles - Scientific advice</p>
 			<p>Michael Busby - Website</p>
+			<p>Max Johns - Content</p>
 			<p>Alex James and Michael Plank (University of Canterbury) - Modelling and statistics</p>
 		</div>
 	</div>
