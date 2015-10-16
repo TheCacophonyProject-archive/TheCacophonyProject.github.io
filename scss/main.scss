@@ -16,13 +16,13 @@ $green: #7ac142;
 	
 	display:none;
 }
-a {
-	color:#000;
-	text-decoration:underline;
+a:not(.menu) {
+	color: $green;
+	font-weight:600;
 }
 
 a:hover {
-	color:#000;
+	color: $green;
 	font-weight:600;
 }
 
@@ -38,6 +38,7 @@ a:hover {
 	#opening-copy {
 		padding-left:1.5rem;
 	}
+
 }
 
 #project-nav {
@@ -47,6 +48,7 @@ a:hover {
 		margin:0;
 	a {
 		font-size:14px;
+		color:#000 !important;
 	}
 
 	}
@@ -81,14 +83,16 @@ a.hero-jump.button {
 
 .gray {
 	background-color: #e5e5e5 !important;
+	a {
+		color:#000;
+	}
 }
 
 .green {
 	background-color: $green !important;
-}
-
-body>section p a {
-	font-weight: 500;
+		a {
+		color:#FFF;
+	}
 }
 
 body>section:not(#menu):not(.hero):not(#footer-container) {
