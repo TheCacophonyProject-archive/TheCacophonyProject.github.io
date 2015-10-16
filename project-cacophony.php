@@ -79,7 +79,7 @@
 				<p>We’ve already built the first version, and now we’re looking for ways to make it cheaper and more reliable.</p>
 				<p>The smartphone base gives us some obviously useful components - like a core processor, microphone and GPS inputs, and wifi/cell/Bluetooth connectivity. But there are questions we haven’t answered yet. What could we do with the camera, or other sensors?</p>
 				<p>We picture thousands of Cacophonometers listening to the bush all over New Zealand in the future. Could you help create a cheaper, more reliable device?</p>
-				<p><a href="#">See a detailed specification of the initial data logger</a></p>
+				<p><a href="https://tree.taiga.io/project/the-cacophony-project/">See a detailed specification of the initial data logger</a></p>
 		</div>
 	</div>
 	<div class="row">
@@ -96,7 +96,7 @@
 		</div>
 		<div class="small-12 medium-6 columns">
 			<h4>Later</h4>
-			<p><a href="#">Buy a Cacophonometer</a> and see what it can do - and what you can do for it!</p>
+			<p><a href="/cacophonometer.php">Buy a Cacophonometer</a> and see what it can do - and what you can do for it!</p>
 		</div>
 	</div>
 </section>
