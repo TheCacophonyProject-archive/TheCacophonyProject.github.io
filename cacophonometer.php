@@ -36,8 +36,6 @@
 			<h4>
 				We’re still tinkering with the first version of the Cacophometer. Once it’s ready, you can help spread our digital ears all over the country.
 			</h4>
-			<h5>We’re aiming for a price of &dollar;XXX, and a release date in XXX.
-			</h5><br>
 			<h3>Let me know when Cacophonometers are available</h3>
 
 			<div id="contact-form">
