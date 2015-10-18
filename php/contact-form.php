@@ -1,6 +1,6 @@
 <?php
 
-$toemail = "busbymp@gmail.com";
+$toemail = "grant@cacophony.org.nz";
 
 $spam = $_POST["email"];
 
