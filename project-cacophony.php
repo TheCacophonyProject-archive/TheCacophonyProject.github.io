@@ -122,7 +122,7 @@
 				<li><strong>Data cleaning</strong> - What do we need to remove from our recordings? How can we detect and clear things like voices, which we want to exclude for privacy reasons?</li>
 				<li><strong>Storage structure</strong> - We’re storing this data for everyone, and want it to be useful for decades to come. Will a simple structure be best? Sound recording, timestamp, GPS coordinates - is that all we need?</li>
 			</ul>
-			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="#">email us</a>.</p>
+			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="/contact.php">contact us</a>.</p>
 		</div>
 		<div class="small-12 medium-6 columns">
 			<img src="/img/pukeko-icon.jpg">
@@ -154,7 +154,7 @@
 					<li><strong>Experiment design</strong> - Can our data and insight help design better experiments for pest eradication? We could, for example, monitor areas before and after trapping or poisoning, and also collect ‘control’ data from a similar area without traps or bait.</li>
 					<li><strong>Optimising data collection</strong> - From all of the above, and perhaps other analysis, can you estimate the optimal spacing and spread of Cacophonometers? Can you help optimise other data collection methods?</li>
 				</ul>
-			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="#">email us</a>.</p>
+			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="/contact.php">contact us</a>.</p>
 
 		</div>
 	</div>
