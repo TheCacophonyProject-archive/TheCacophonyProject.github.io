@@ -39,9 +39,10 @@
 			</p>
 
 			<p>
-				That Quirky Foundation<br>
-				PurePods Ltd<br>
-				Jade Software
+				That Quirky Foundation<br/>
+				PurePods Ltd<br/>
+				Jade Software<br/>
+				<a href="http://zip.org.nz">Zero Invasive Predators</a>
 			</p>
 					
 		</div>
