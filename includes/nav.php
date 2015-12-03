@@ -10,7 +10,7 @@
 			    <li> 
 			      <!-- First Tier Drop Down -->
 			      <!-- <label for="drop-1" class="toggle">Join the open source project ></label>-->
-			      <a id="the-project-link" href="/project-cacophony.php">Join the open source project</a>
+			      <a id="the-project-link" title="We're an open source project - we'd love your help!" href="/project-cacophony.php">Join the project</a>
 			      <!-- <input type="checkbox" id="drop-1"/>
 			      <ul>
 			        <li><a href="/project-cacophony.php#cacophonometer">Sound recording hardware</a></li>
@@ -22,7 +22,7 @@
 			    <li><a id="cacophonometer-link" href="/cacophonometer.php">Cacophonometer</a></li>
 			    <!-- <li><a id="news-link" href="/news.php">Shop</a></li> -->
 			    <!--<li><a id="shop-link" href="/shop.php">Shop</a></li>-->
-			    <li><a id="team-link" href="/team.php">The project team</a></li>
+			    <li><a id="team-link" href="/team.php">Team</a></li>
 			    <!--<li> 
 			      
 			      <label for="drop-2" class="toggle">Theory +</label>
@@ -49,6 +49,7 @@
 			    </li>-->
 			    
 			    <li><a id="friends-link" href="/cacophony-friends.php">Friends of the project</a></li>
+			    <li><a id="contact-link" href="/contact.php">Contact</a></li>
 			  </ul>
 			</nav>
 		</div>

@@ -55,10 +55,11 @@
 					The Cacophony Project will turn birdsong into data. By capturing the sound of our ecosystems, we’re going to build up a dataset that tracks exactly what the birds are telling us, over time and over the whole of New Zealand. 
 				</p>	
 				<p>
-					We’ve already built the technology. The Cacophonometer is a simple piece of hardware that lives in the bush, listening out for birds and automatically sending what it hears to the cloud. Every recording is tagged by GPS location and by time.				
+					The Cacophonometer is a simple piece of hardware that lives in the bush, listening out for birds and automatically sending what it hears to the cloud. Every recording is tagged by GPS location and by time.				
 				</p>
 				<p>
-					Now we spread Cacophonometers far and wide. And we listen, learn, and improve the Cacophony Project as we go.				</p>	
+					Now we spread Cacophonometers far and wide. And we listen, learn, and improve the Cacophony Project as we go.				</p>
+				<p>Long term, these devices could also be modified to use sound to lure pests, identify, and eradicate them in an intelligent targeted manner.</p>	
 			</div>
 		</div>
 	</div>

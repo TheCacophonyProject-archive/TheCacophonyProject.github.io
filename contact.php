@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta http-equiv="Content-Type" content="svg/xml" />
-	<title>Cacophonometers are coming soon</title>
+	<title>Contact the Cacophony Project Team</title>
 	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:300, 400,600,700' type='text/css'>	
 	<link rel="stylesheet" href="/css/app.css" />
 	<link rel="icon" type="image/png" href="favicon.png">
@@ -24,7 +24,7 @@
 	<div id="hero-text">
 		<div class="row">
 			<div class="small-12 columns">
-				<h1>Be the first to hear when Cacophonometers are available</h1>
+				<h1>Contact the Cacophony Project Team</h1>
 			</div>
 		</div>
 	</div>
@@ -33,10 +33,7 @@
 <section id="contribute">
 	<div class="row">
 		<div class="small-12 columns">
-			<h4>
-				We’re still tinkering with the first version of the Cacophometer. Once it’s ready, you can help spread our digital ears all over the country.
-			</h4>
-			<h3>Let me know when Cacophonometers are available</h3>
+			<h4>Get in touch with us if you have questions or suggestions!</h4>
 
 			<div id="contact-form">
 				<div class="row">
@@ -60,7 +57,7 @@
 								<small class="error">Please enter a valid email address</small>
 							</div>
 							<div class="message-field">
-								<label>Is there anything else you want us to know?
+								<label>Let us know what you're thinking or wondering!
 									<textarea rows="4" name="inputMessage"></textarea>
 								</label>
 								<small class="error">Please enter a message</small>
@@ -68,8 +65,8 @@
 							<button id="button-submit" type="submit" class="radius right">Submit</button>
 						</form>
 						<div id="success">
-							<h3>It’s great to hear your support</h3>
-							<p>Thanks! You’ll get an email from us as soon as Cacophonometers are ready to go. Until then, you can help us by spreading the word.</p>
+							<h3>Thanks for getting in touch!</h3>
+							<p>We'll get back to you as soon as possible - in the meantime, tell your friends about the project!</p>
 						</div>
 						<div id="failure">
 							<h2>Something went wrong</h2>
@@ -88,7 +85,7 @@
 
 
 <script>
-$('#cacophonometer-link').css("font-weight","bold");
+$('#contact-link').css("font-weight","bold");
 </script>
 <script type="text/javascript" src="/js/forms.js"></script>
 <?php include('includes/footer.php'); ?>

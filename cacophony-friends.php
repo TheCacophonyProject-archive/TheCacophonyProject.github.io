@@ -39,9 +39,11 @@
 			</p>
 
 			<p>
-				That Quirky Foundation<br>
-				PurePods Ltd<br>
-				Jade Software
+				That Quirky Foundation<br/>
+				<a href="http://purepods.com">PurePods Ltd</a><br/>
+				<a href="http://jadeworld.com">Jade Software</a><br/>
+				<a href="http://zip.org.nz">Zero Invasive Predators</a><br/>
+				Shaun Hendy - <a href="http://twitter.com/hendysh">@hendysh</a>
 			</p>
 					
 		</div>

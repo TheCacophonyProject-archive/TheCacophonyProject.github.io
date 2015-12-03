@@ -122,7 +122,7 @@
 				<li><strong>Data cleaning</strong> - What do we need to remove from our recordings? How can we detect and clear things like voices, which we want to exclude for privacy reasons?</li>
 				<li><strong>Storage structure</strong> - We’re storing this data for everyone, and want it to be useful for decades to come. Will a simple structure be best? Sound recording, timestamp, GPS coordinates - is that all we need?</li>
 			</ul>
-			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="#">email us</a>.</p>
+			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="/contact.php">contact us</a>.</p>
 		</div>
 		<div class="small-12 medium-6 columns">
 			<img src="/img/pukeko-icon.jpg">
@@ -154,7 +154,7 @@
 					<li><strong>Experiment design</strong> - Can our data and insight help design better experiments for pest eradication? We could, for example, monitor areas before and after trapping or poisoning, and also collect ‘control’ data from a similar area without traps or bait.</li>
 					<li><strong>Optimising data collection</strong> - From all of the above, and perhaps other analysis, can you estimate the optimal spacing and spread of Cacophonometers? Can you help optimise other data collection methods?</li>
 				</ul>
-			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="#">email us</a>.</p>
+			<p>Keen to help? Find us on <a href="https://tree.taiga.io/project/the-cacophony-project/">Taiga</a> or <a href="https://github.com/TheCacophonyProject">Github</a>, or <a href="/contact.php">contact us</a>.</p>
 
 		</div>
 	</div>
@@ -197,6 +197,66 @@
 		</div>
 	</div>
 </section>
+
+<section id="digital-lures" class="gray">
+
+        <div class="row up-button">
+                <div class="small-12 columns">
+                        <a href="#project-nav" class="smooth-scroll hero-jump button round black"></a>
+                </div>
+        </div>
+        <div class="row">
+                <div class="small-12 columns">
+                        <h2>Digital Lures - sound and possibly images recreating sexual or social behaviours</h2>
+                </div>
+        </div>
+        <div class="row">
+                <div class="small-12 medium-6 columns">  
+	  		<p>Digital lures have the following advantages:</p>
+			<ul>
+				<li>lure can be infinitely long life (solar powered) if sound and or video. Given the labour requirement to rebait etc this could make a very large difference to the total cost over years. The lure could be possibly last 100 times longer.</li>
+				<li>can act over large distance (much larger than food based). This is particularly important as 10 times distance cover 100 times area - only 1/100 number of lures/traps needed.</li>
+				<li>can be adapted to target specific pests (rats, possums, stoats, mice, rabbits, feral cats, goats, pigs, etc.)</li>
+				<li>can be updated to get better over time (as methods get improved)</li>
+				<li>network of devices could adapt to target one pest if invasion is noticed (eg instead of cycling through different pest lures just focus on stoat if it has been identified).</li>
+				<li>could be set up to eradicate one set of pests at a time eg possums first until all gone, then stoats, then rats then mice.</li>
+				<li>less likely to attract non target animals and birds (probably actively avoid).</li>
+				<li>becomes even more effective in low density situations (unlike food lures that become less attractive in food abundant environments). Finding a mate is harder in low density so may try anything that vaguely looks promising? This may also mean smell is less important as there are fewer competing smells around.</li>
+				<li>field devices can listen for response and adapt responds to lure pest in. For example there may be a series of communications back and forward that changes. Also possible that you could have a highly amplified sound to cover larger area and then move volume down as animal responds. This could vastly reduce the number of traps required for a given area.</li>
+			</ul>
+		</div>
+        </div>
+</section>
+
+<section id="digital-trapping">
+
+        <div class="row up-button">
+                <div class="small-12 columns">
+                        <a href="#project-nav" class="smooth-scroll hero-jump button round black"></a>
+                </div>
+        </div>
+        <div class="row">
+                <div class="small-12 columns">
+                        <h2>Ultimate digital trapping system</h2>
+                </div>
+        </div>
+        <div class="row">
+                <div class="small-12 medium-6 columns">
+			<ul>
+				<li>Low cost solar powered smart phone is core of the intelligence and communications.
+</li>
+				<li>Sound and or video is the core of the sexual/social lure (ultrasonic or pheromone  sprays could be added too).</li>
+				<li>Device can listen for any of the possible pest out there and when detected the entire network adapted to target the one pest.</li>
+				<li>Pest identification at the trap is done with image recognition (getting vastly cheaper).</li>
+				<li>Kill is done by any number of killing methods eg  squirting poison (solar powered propulsion), poison dart, gas – the pest can not become trap wary as there is nothing to go into. Plus they go elsewhere to die so would not need to be cleared.</li>
+				<li>All open source so anyone can buy devices and try new variations to improve all systems – engage all the intelligent folks in NZ and possibly world to tackle each part of the problem.</li>
+				<li>All data is automatically uploaded to open source cloud database and improvements can be rolled out to all systems and improvements are made eg better digital lure, better at listening for pests,  better data on how to time and rotate digital lure, better image recognition, better power management, better way to run the trap seasonally and in different weather, etc.</li>
+				<li>Moore’s law means this type of system is likely to make huge improvements in effectiveness and cost relatively quickly. Possibly improving cost or effectiveness by a factor of two every few years.</li>
+			</ul>
+                </div>
+        </div>
+</section>
+
 
 <section id="open-source" class="gray">
 
