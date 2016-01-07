@@ -8,7 +8,7 @@
 		<div class="row"> 
 			<div class="small-12 medium-9 columns">
 				<p>
-					&copy; 2015 The Cacophony Project. All Rights Reserved.
+					&copy; 2016 The Cacophony Project. All Rights Reserved.
 				</p>
 			</div> 
 			<div class="small-12 medium-3 columns">
